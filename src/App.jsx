@@ -436,6 +436,13 @@ function App() {
               <small className="text-muted">{item.type === 'photo' ? '📷' : '📍'} {formatTime(item.timestamp)}</small>
               <p className="mb-1">{item.latitude.toFixed(6)}, {item.longitude.toFixed(6)}</p>
               <small>Accuracy: ±{item.accuracy}m</small>
+              {/* 新增的 View on Map 按钮 */}
+              <button 
+                className="btn btn-sm btn-outline-info mt-1 me-1"
+                onClick={() => window.open(`https://maps.google.com/?q=${item.latitude},${item.longitude}`, '_blank')}
+              >
+                🗺 View on Map
+              </button>
               {item.type === 'photo' && item.photoUri && (
                 <img src={item.photoUri} alt="Thumb" style={{ width: 80, height: 80, marginTop: 10 }} />
               )}
