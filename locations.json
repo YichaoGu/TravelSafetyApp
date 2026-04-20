@@ -1,0 +1,497 @@
+[
+  {
+    "id": "1775607213823",
+    "latitude": 55.84344613649586,
+    "longitude": -4.426559765136815,
+    "timestamp": "2026-04-08T00:13:33.521Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T00:13:33.823Z"
+  },
+  {
+    "id": "1775688600843",
+    "latitude": 55.84339581867821,
+    "longitude": -4.4265274591012895,
+    "timestamp": "2026-04-08T22:50:00.468Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T22:50:00.843Z"
+  },
+  {
+    "id": "1775691859564",
+    "latitude": 55.84343954949163,
+    "longitude": -4.426494012259332,
+    "timestamp": "2026-04-08T23:44:19.556Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T23:44:19.564Z"
+  },
+  {
+    "id": "1775692354613",
+    "latitude": 55.84343954949163,
+    "longitude": -4.426494012259332,
+    "timestamp": "2026-04-08T23:52:34.610Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T23:52:34.613Z"
+  },
+  {
+    "id": "1775692421549",
+    "latitude": 55.84343954949163,
+    "longitude": -4.426494012259332,
+    "timestamp": "2026-04-08T23:53:41.548Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T23:53:41.549Z"
+  },
+  {
+    "id": "1775692445092",
+    "latitude": 55.84343954949163,
+    "longitude": -4.426494012259332,
+    "timestamp": "2026-04-08T23:54:05.091Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T23:54:05.092Z"
+  },
+  {
+    "id": "1775692570324",
+    "latitude": 55.84341335166577,
+    "longitude": -4.426581370439272,
+    "timestamp": "2026-04-08T23:56:10.330Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-08T23:56:10.324Z"
+  },
+  {
+    "id": "1775693467529",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:11:07.586Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:11:07.529Z"
+  },
+  {
+    "id": "1775693497486",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:11:37.552Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:11:37.487Z"
+  },
+  {
+    "id": "1775693564758",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:12:44.871Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:12:44.758Z"
+  },
+  {
+    "id": "1775693582994",
+    "latitude": 55.84345265538124,
+    "longitude": -4.4265007830730925,
+    "timestamp": "2026-04-09T00:13:03.004Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:13:02.994Z"
+  },
+  {
+    "id": "1775693594790",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:13:14.881Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:13:14.790Z"
+  },
+  {
+    "id": "1775693638219",
+    "latitude": 55.84345265538124,
+    "longitude": -4.4265007830730925,
+    "timestamp": "2026-04-09T00:13:58.215Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:13:58.219Z"
+  },
+  {
+    "id": "1775693695206",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:14:55.312Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:14:55.206Z"
+  },
+  {
+    "id": "1775693745752",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:15:45.851Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:15:45.752Z"
+  },
+  {
+    "id": "1775693889573",
+    "latitude": 55.8434677,
+    "longitude": -4.4264679,
+    "timestamp": "2026-04-09T00:18:09.644Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T00:18:09.573Z"
+  },
+  {
+    "id": "1775698187908",
+    "latitude": 55.8433723,
+    "longitude": -4.4264817,
+    "timestamp": "2026-04-09T01:29:48.047Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T01:29:47.908Z"
+  },
+  {
+    "id": "1775698450801",
+    "latitude": 55.8433723,
+    "longitude": -4.4264817,
+    "timestamp": "2026-04-09T01:34:10.970Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T01:34:10.801Z"
+  },
+  {
+    "id": "1775699120088",
+    "latitude": 55.843438026103264,
+    "longitude": -4.426500637652277,
+    "timestamp": "2026-04-09T01:45:20.081Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T01:45:20.088Z"
+  },
+  {
+    "id": "1775699134616",
+    "latitude": 55.843438026103264,
+    "longitude": -4.426500637652277,
+    "timestamp": "2026-04-09T01:45:34.613Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T01:45:34.616Z"
+  },
+  {
+    "id": "1775700730727",
+    "latitude": 55.843438026103264,
+    "longitude": -4.426500637652277,
+    "timestamp": "2026-04-09T02:12:10.724Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T02:12:10.727Z"
+  },
+  {
+    "id": "1775701497018",
+    "latitude": 55.8432714,
+    "longitude": -4.4265525,
+    "timestamp": "2026-04-09T02:24:57.104Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T02:24:57.018Z"
+  },
+  {
+    "id": "1775772089929",
+    "latitude": 55.84343951856407,
+    "longitude": -4.42650990241173,
+    "timestamp": "2026-04-09T22:01:29.571Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:01:29.929Z"
+  },
+  {
+    "id": "1775774982287",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:49:43.872Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:49:42.287Z"
+  },
+  {
+    "id": "1775775012252",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:50:13.858Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:50:12.252Z"
+  },
+  {
+    "id": "1775775042328",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:50:43.905Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:50:42.328Z"
+  },
+  {
+    "id": "1775775074010",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:51:15.600Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:51:14.010Z"
+  },
+  {
+    "id": "1775775076912",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:51:18.520Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:51:16.912Z"
+  },
+  {
+    "id": "1775775120296",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:52:01.885Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:52:00.296Z"
+  },
+  {
+    "id": "1775775122360",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:52:03.966Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:52:02.360Z"
+  },
+  {
+    "id": "1775775150246",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:52:31.864Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:52:30.246Z"
+  },
+  {
+    "id": "1775775230227",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:53:51.788Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:53:50.227Z"
+  },
+  {
+    "id": "1775775258993",
+    "latitude": 55.84343951856407,
+    "longitude": -4.42650990241173,
+    "timestamp": "2026-04-09T22:54:18.997Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:54:18.993Z"
+  },
+  {
+    "id": "1775775260179",
+    "latitude": 55.8433853,
+    "longitude": -4.4261708,
+    "timestamp": "2026-04-09T22:54:21.773Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-09T22:54:20.179Z"
+  },
+  {
+    "id": "1775857053569",
+    "latitude": 55.843418120324955,
+    "longitude": -4.426555792316664,
+    "timestamp": "2026-04-10T21:37:33.272Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T21:37:33.569Z"
+  },
+  {
+    "id": "1775858419895",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:00:20.057Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:00:19.895Z"
+  },
+  {
+    "id": "1775858421409",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:00:21.608Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:00:21.409Z"
+  },
+  {
+    "id": "1775858449876",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:00:50.027Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:00:49.876Z"
+  },
+  {
+    "id": "1775858452203",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:00:52.398Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:00:52.203Z"
+  },
+  {
+    "id": "1775858502435",
+    "latitude": 55.843418120324955,
+    "longitude": -4.426555792316664,
+    "timestamp": "2026-04-10T22:01:42.434Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:01:42.435Z"
+  },
+  {
+    "id": "1775858516253",
+    "latitude": 55.84345809842577,
+    "longitude": -4.426519663793458,
+    "timestamp": "2026-04-10T22:01:56.248Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:01:56.253Z"
+  },
+  {
+    "id": "1775858525526",
+    "latitude": 55.84345809842577,
+    "longitude": -4.426519663793458,
+    "timestamp": "2026-04-10T22:02:05.525Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:02:05.526Z"
+  },
+  {
+    "id": "1775858533103",
+    "latitude": 55.84345809842577,
+    "longitude": -4.426519663793458,
+    "timestamp": "2026-04-10T22:02:13.101Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:02:13.103Z"
+  },
+  {
+    "id": "1775859497344",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:18:17.541Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:18:17.344Z"
+  },
+  {
+    "id": "1775859498860",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:18:19.073Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:18:18.860Z"
+  },
+  {
+    "id": "1775859500107",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:18:20.321Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:18:20.107Z"
+  },
+  {
+    "id": "1775859537585",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:18:57.776Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:18:57.585Z"
+  },
+  {
+    "id": "1775859567565",
+    "latitude": 55.8434051,
+    "longitude": -4.4255741,
+    "timestamp": "2026-04-10T22:19:27.754Z",
+    "deviceId": "TravelSafetyApp",
+    "note": "",
+    "receivedAt": "2026-04-10T22:19:27.565Z"
+  },
+  {
+    "id": "1775860954029",
+    "latitude": 55.843408075568014,
+    "longitude": -4.426547997675544,
+    "timestamp": "2026-04-10T22:42:34.012Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-10T22:42:34.029Z"
+  },
+  {
+    "id": "1775860989181",
+    "latitude": 55.84345750040048,
+    "longitude": -4.426508024500916,
+    "timestamp": "2026-04-10T22:43:09.182Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-10T22:43:09.181Z"
+  },
+  {
+    "id": "1775866198107",
+    "latitude": 55.84344518585986,
+    "longitude": -4.42652371924887,
+    "timestamp": "2026-04-11T00:09:58.103Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-11T00:09:58.107Z"
+  },
+  {
+    "id": "1776013558701",
+    "latitude": 55.84346230856328,
+    "longitude": -4.426542050808007,
+    "timestamp": "2026-04-12T17:05:58.510Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-12T17:05:58.701Z"
+  },
+  {
+    "id": "1776019716096",
+    "latitude": 55.843314,
+    "longitude": -4.426502,
+    "timestamp": "2026-04-12T18:48:35.846Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-12T18:48:36.096Z"
+  },
+  {
+    "id": "1776020372259",
+    "latitude": 55.84339175658257,
+    "longitude": -4.426568546670633,
+    "timestamp": "2026-04-12T18:59:32.234Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-12T18:59:32.259Z"
+  },
+  {
+    "id": "1776020377647",
+    "latitude": 55.84339175658257,
+    "longitude": -4.426568546670633,
+    "timestamp": "2026-04-12T18:59:37.645Z",
+    "deviceId": "TravelSafetyPWA",
+    "note": "",
+    "receivedAt": "2026-04-12T18:59:37.647Z"
+  }
+]
